@@ -1,5 +1,8 @@
-homebrew-readedid
+homebrew-readedid (deprecated)
 =================
+Note: current repository is no longer maintained and combined to <https://github.com/othercat/homebrew-packages> 
+
+please use `brew tap othercat/packages` to get the new version
 
 A repository for my [readedid](https://github.com/othercat/readEDID) related brew.
 
